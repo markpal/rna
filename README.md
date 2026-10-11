@@ -1,3 +1,9 @@
+<h2>RNA sequences</h2>
+<p>
+  The RNA sequences used in this study were obtained from the public
+  <a href="https://www.ncbi.nlm.nih.gov/nuccore">NCBI Nucleotide database</a>.
+  Their accession numbers are listed below:
+</p>
 <ul>
   <li><a href="https://www.ncbi.nlm.nih.gov/nuccore/AJ245616.1">AJ245616.1</a></li>
   <li><a href="https://www.ncbi.nlm.nih.gov/nuccore/JL711896.1">JL711896.1</a></li>
